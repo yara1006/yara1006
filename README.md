@@ -1,4 +1,4 @@
-## Hi, I'm Hanbing YANG (Hannah) 👋
+## Hi, I'm Hanbing Yang (Hannah) 👋
 
 AI Product Manager · Shenzhen University Class of 2027
 
@@ -14,7 +14,7 @@ Building AI-native products in finance & logistics.
 ### 🚀 Featured Projects
 - **SmartRoute** — Multi-Agent Route Planner for Local Life ([GitHub](https://github.com/yara1006/smartroute))
 - **Banking RAG** — Multimodal LLM for table & flowchart understanding
-- **LvZhi Assistant** — AI Legal Platform ([GitHub]((https://github.com/yara1006/Lvzhi-Assistant)))
+- **LvZhi Assistant** — AI Legal Platform ([GitHub](https://github.com/yara1006/Lvzhi-Assistant))
 - **LLM Robustness** — Adversarial Attack Framework ([GitHub](https://github.com/yara1006/NLP_project))
 
 ### 🛠 Tech Stack
