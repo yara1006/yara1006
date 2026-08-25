@@ -1,4 +1,4 @@
-## Hi, I'm Hannah (杨韩冰) 👋
+## Hi, I'm Hanbing Yang (Hannah) 👋
 
 AI Product Manager · Shenzhen University Class of 2027
 
@@ -7,16 +7,17 @@ AI Product Manager · Shenzhen University Class of 2027
 ### 💼 What I Do
 Building AI-native products in finance & logistics.
 
-### 🏢 Experience
+###  Experience
 - **SF Express** — Logistics AI Agent (0→1)
 - **Bank of East Asia** — Multimodal RAG & AI Employee Platform
 
 ### 🚀 Featured Projects
+- **SmartRoute** — AI-Powered Logistics Route Optimization
 - **Banking RAG** — Multimodal LLM for table & flowchart understanding
 - **LvZhi Assistant** — AI Legal Platform ([GitHub](https://github.com/yara1006/lvzhi_assistant))
 - **LLM Robustness** — Adversarial Attack Framework ([GitHub](https://github.com/yara1006/NLP_project))
 
-###  Tech Stack
+### 🛠 Tech Stack
 `AI Agent` `RAG` `Multimodal AI` `MCP` `Python` `Java`
 
 ### 🏆 Competitions
