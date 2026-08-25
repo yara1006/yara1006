@@ -1,4 +1,4 @@
-## Hi, I'm Hanbing Yang (Hannah) 👋
+## Hi, I'm Hanbing YANG (Hannah) 👋
 
 AI Product Manager · Shenzhen University Class of 2027
 
