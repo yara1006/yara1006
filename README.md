@@ -12,7 +12,7 @@ Building AI-native products in finance & logistics.
 - **Bank of East Asia** — Multimodal RAG & AI Employee Platform
 
 ### 🚀 Featured Projects
-- **SmartRoute** — AI-Powered Logistics Route Optimization
+- **SmartRoute** — Multi-Agent Route Planner for Local Life ([GitHub](https://github.com/yara1006/smartroute))
 - **Banking RAG** — Multimodal LLM for table & flowchart understanding
 - **LvZhi Assistant** — AI Legal Platform ([GitHub](https://github.com/yara1006/lvzhi_assistant))
 - **LLM Robustness** — Adversarial Attack Framework ([GitHub](https://github.com/yara1006/NLP_project))
