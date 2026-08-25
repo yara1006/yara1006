@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Hannah (杨韩冰) 👋
 
-<!--
-**yara1006/yara1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Manager · Shenzhen University Class of 2027
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+Building AI-native products in finance & logistics.
+
+### 🏢 Experience
+- **SF Express** — Logistics AI Agent (0→1)
+- **Bank of East Asia** — Multimodal RAG & AI Employee Platform
+
+### 🚀 Featured Projects
+- **Banking RAG** — Multimodal LLM for table & flowchart understanding
+- **LvZhi Assistant** — AI Legal Platform ([GitHub](https://github.com/yara1006/lvzhi_assistant))
+- **LLM Robustness** — Adversarial Attack Framework ([GitHub](https://github.com/yara1006/NLP_project))
+
+###  Tech Stack
+`AI Agent` `RAG` `Multimodal AI` `MCP` `Python` `Java`
+
+### 🏆 Competitions
+Math Modeling National 3rd · Guangdong 2nd · Service Outsourcing 3rd
+
+### ✍ Writing
+[Thoughts & Reflections](https://yara1006.github.io/articles/)
+
+---
+
+🌐 [Personal Site](https://yara1006.github.io) · 📧 hanbingyang2004@qq.com
