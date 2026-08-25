@@ -14,7 +14,7 @@ Building AI-native products in finance & logistics.
 ### 🚀 Featured Projects
 - **SmartRoute** — Multi-Agent Route Planner for Local Life ([GitHub](https://github.com/yara1006/smartroute))
 - **Banking RAG** — Multimodal LLM for table & flowchart understanding
-- **LvZhi Assistant** — AI Legal Platform ([GitHub](https://github.com/yara1006/lvzhi_assistant))
+- **LvZhi Assistant** — AI Legal Platform ([GitHub]((https://github.com/yara1006/Lvzhi-Assistant)))
 - **LLM Robustness** — Adversarial Attack Framework ([GitHub](https://github.com/yara1006/NLP_project))
 
 ### 🛠 Tech Stack
