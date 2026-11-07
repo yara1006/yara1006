@@ -24,8 +24,8 @@ Building AI-native products in finance & logistics.
 Math Modeling National 3rd · Guangdong 2nd · Service Outsourcing 3rd
 
 ### ✍ Writing
-[Thoughts & Reflections](https://yara1006.github.io)
+[Thoughts & Reflections]()
 
 ---
 
-🌐 [Personal Site](https://yara1006.github.io) · 📧 hanbingyang2004@qq.com
+🌐 [Personal Site]() · 📧 hanbingyang2004@qq.com
